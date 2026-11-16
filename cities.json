@@ -1,0 +1,34 @@
+{
+  "cities": [
+    {
+      "city": "Jyväskylä - home of Ilari",
+      "latitude": "62.2333333",
+      "longitude": "25.7333333"
+    },
+    {
+      "city": "Nastola - home of Jasse",
+      "latitude": "60.9333333",
+      "longitude": "25.9333333"
+    },
+    {
+      "city": "Korvatunturi - home of 🎅",
+      "latitude": "68.0736111",
+      "longitude": "29.3152778"
+    },
+    {
+      "city": "Kiss my Turku",
+      "latitude": "60.451389",
+      "longitude": "22.268333"
+    },
+    {
+      "city": "Kerava city",
+      "latitude": "60.4028",
+      "longitude": "25.1000"
+    },
+    {
+      "city": "Mentally I'm here",
+      "latitude": "35.513828",
+      "longitude": "24.018038"
+    }
+  ]
+}
