@@ -57,4 +57,14 @@ The UI is in Finnish.
 
 ## Background
 
-This started as a course project in 2024, and I've since refactored it so the API key is kept out of the repository.
+This started as a course assignment in 2024, and I've since refactored it so the API key is kept out of the repository.
+
+### Assignment details (in Finnish)
+Tee sääapplikaatio, joka näyttää käyttäjälle sään valitussa kaupungissa. Käyttäjä voi valita kaupungin listalta tai hakea kaupungin nimen perusteella.
+   - #### Vaatimukset
+
+   - Muodosta dropdown tai muu tapa listata kaupungit (nappulat, radio buttonit, jne.) Listaa vähintään 5 kaupunkia.
+
+   - Näytä huomautus, mikäli käyttäjä ei jaa sijaintiaan. Kiinnitä huomiota kuitenkin käytettävyyteen. Käyttäjällä tulee olla oikeus yksityisyyteensä, eikä sijainnin jakamattomuus saa haitata käyttökokemusta tarpeettomasti.
+
+   - Tee sivustosta esteettisesti miellyttävä. Perustele tyylilliset valintasi. Liikaa tyylejä ei tarvitse olla, mutta sivuston tulee olla selkeä ja helppolukuinen.
